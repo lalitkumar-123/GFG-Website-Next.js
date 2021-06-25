@@ -1,5 +1,5 @@
 /* INTRO */
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -80,7 +80,7 @@
   float: left !important;
   color: white;
   margin-left: 70%;
-  margin-top: -500px;
+  margin-top: -450px;
   position: absolute;
   letter-spacing: 2px;
 }
@@ -290,24 +290,25 @@
   #landing_intro_line {
     display: none;
   }
-  .project_desc{
-     text-align: left;
-     line-height:1.6;
+  .project_desc {
+    text-align: left;
+    line-height: 1.6;
   }
-  a[href = "https://practice.geeksforgeeks.org/courses/geek-I-knack"]{
-    margin-left:27%;
+  a[href = "https://practice.geeksforgeeks.org/courses/geek-I-knack"]
+  {
+    margin-left: 27%;
   }
-  .LI_content .LI_context{
-     text-align: left;
-     /* font-size:0.8em; */
-     font-size: 100%;
-     font-weight:500;
-     /* font: inherit; */
-     padding-left:4%;
-     line-height:1.8;
+  .LI_content .LI_context {
+    text-align: left;
+    /* font-size:0.8em; */
+    font-size: 100%;
+    font-weight: 500;
+    /* font: inherit; */
+    padding-left: 4%;
+    line-height: 1.8;
   }
-  .send{
-     margin-left:9%;
+  .send {
+    margin-left: 9%;
   }
   #upcomingEvent,
   #landing_intro_title {
@@ -399,7 +400,6 @@
   animation: animate-alt2 80s linear infinite;
   animation-delay: -40s;
 }
-
 
 @keyframes animate {
   0% {

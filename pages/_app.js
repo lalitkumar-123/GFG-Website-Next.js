@@ -1,6 +1,7 @@
 import '../styles/globals.css'
 import './Navbar/navbar.css';
 import Footer from './Footer/Footer.css';
+import './Member/Members.css';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './slick-slider/main-events.css';
